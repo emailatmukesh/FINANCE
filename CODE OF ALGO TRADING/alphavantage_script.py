@@ -1,8 +1,4 @@
-"""
-extracting data using alpha vantage
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
-"""
 
 # importing libraries
 from alpha_vantage.timeseries import TimeSeries
